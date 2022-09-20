@@ -2,6 +2,7 @@ body
 {
   background:url("myBackground.jpg");
   background-color: #D7D4CE;
+  background-size: auto;
 }
 
 h1
