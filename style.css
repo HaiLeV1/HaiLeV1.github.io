@@ -1,9 +1,17 @@
 <link rel="stylesheet" href="style.css">
-body {
+body
+{
+  ackground-image: url("myBackground.jpg") linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,0,0,1));
   background-color: "#D7D4CE"
 }
 
-h1 {
-  color: navy;
+h1
+{
+  color: black;
   margin-left: 20px;
+}
+
+p
+{
+  color: black;
 }
