@@ -1,6 +1,6 @@
 body
 {
-  background-image: url("myBackground.jpg") linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,0,0,1));
+  background-image: url("myBackground.jpg");
   background-color: #D7D4CE;
 }
 
